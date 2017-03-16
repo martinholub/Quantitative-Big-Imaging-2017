@@ -23,7 +23,7 @@ For communicating, discussions, asking questions, and everything, we will be try
  - [Handout](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/03-QBI-PythonTutorial.ipynb)
 
 ### 16th March - Basic Segmentation, Discrete Binary Structures
- - [Old Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/03-Slides.html)
+ - [Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/03-Slides.html)
  - [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/03-Handout.html) as [PDF](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/03-Handout.pdf)
  - Old Lecture Video: [Part 1](https://www.youtube.com/watch?v=JGW0mS7DJ4E), [Part 2](https://www.youtube.com/watch?v=woR7tAbssLo)
 
@@ -123,6 +123,13 @@ The exercises will be available on Kaggle as 'Datasets' and we will be trying [b
 ### 16th March - Basic Segmentation, Discrete Binary Structures
  - [Old KNIME Exercises](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/03-Description.md)
  - [Old Workflows](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/03-files/Workflows.zip?raw=true)
+ 
+#### Kaggle
+
+- [Kaggle Dataset Overview](https://www.kaggle.com/kmader/qbi-image-segmentation)
+- [Bone Segmentation](https://www.kaggle.com/kmader/d/kmader/qbi-image-segmentation/segmenting-cells-in-bone-data/)
+- [Fossil Segmentation](https://www.kaggle.com/kmader/d/kmader/qbi-image-segmentation/fossil-data-viewing-and-analysis)
+- [Another Fossil Segmentation](https://www.kaggle.com/kmader/d/kmader/qbi-image-segmentation/teeth-fossil-viewing)
 
 ### 23rd March - Advanced Segmentation
  - [Old KNIME Exercises](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/04-Description.md)
@@ -174,7 +181,7 @@ The final examination (as originally stated in the course material) will be a 30
 
 
 # Projects
-- [Overview](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Projects/Overview.md) of possible projects
+- [Overview](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Projects/Overview.md) of possible projects
 - [Here](https://docs.google.com/spreadsheet/ccc?key=0AnOOBjdH2wMXdFNzVUNEUUc1WG1Cb21Gb24xZnQ5dWc&usp=sharing) you signup for your project with team members and a short title and description
 
 
