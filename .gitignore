@@ -1,2 +1,7 @@
 *.pdf
 *.csv
+Projects/boc
+Projects/images
+Exercises/*files
+Exercises/input~
+*/.ipynb_checkpoints
